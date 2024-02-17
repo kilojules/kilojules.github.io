@@ -1,6 +1,5 @@
 *{
     background-color:aliceblue;
-
 }
 
 .pwebsite{
@@ -23,6 +22,7 @@
     object-fit: cover;
     border-radius: 10px;
     border-color: rgb(105, 152, 222);
+    border-style: solid;
 
 }
 
@@ -36,4 +36,10 @@
     background-color: rgb(3, 0, 82);
     color: rgb(109, 160, 95);
 
+}
+
+.pwebsite-resume{
+    padding: 15px;
+    color: orangered;
+    background-color: yellow;
 }
